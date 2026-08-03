@@ -24,7 +24,7 @@ Prerequisites
 Installation Steps (macOS)
 Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/lkprathika1102/ClickPulse>
 cd click-pulse
 ```
 
